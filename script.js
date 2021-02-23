@@ -24,4 +24,3 @@ function check () {
     alert ('You got it right! Congratulations, you win... um... bragging rights! Yeah, that there is your prize!')
     }
   }
-}
