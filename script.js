@@ -7,7 +7,7 @@ if (person != null) {
   document.getElementById("demo").innerHTML =
   'Hello, ' + person + '! Welcome to this mini guessing game! If you can guess the age of my creator, you win... um... something! Yeah! Your hints are...'
 
-  document.getElementById('demo2').innerHTML = 'This creator is 5'9. He's also still in school, the tenth grade.'
+  document.getElementById('demo2').innerHTML = 'This creator is 5 feet, 9 inches tall. He is also still in school, the tenth grade.'
 }
 
 function check () {
