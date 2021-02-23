@@ -17,10 +17,10 @@ function check () {
     age = prompt('Take a guess!')
     age = parseInt(age)
   } if (age > 15) {
-  alert('Nope, too high! You gotta try again.')
+    alert('Nope, too high! You gotta try again.')
   } else if (age < 15) {
-  alert('Nope, too low! You gotta try again.')
+    alert('Nope, too low! You gotta try again.')
   } else if (age === 15) {
-  alert('You got it right! Congratulations, you win... um... bragging rights! Yeah, that there is your prize!')
+    alert('You got it right! Congratulations, you win... um... bragging rights! Yeah, that there is your prize!')
   }
 }
